@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733921314 source:c:\code blocks\compiler for a calculator program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
